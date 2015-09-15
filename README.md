@@ -1,21 +1,25 @@
-# _{Ginger_First_Webpage}_
+# Ginger's First Webpage
 
-##### _{A very very simple webpage}, {September 10th 2015}_
-
-#### By _**{Ginger Lee Kretschmer}**_
+**AUTHOR:** Ginger Lee Kretschmer
 
 ## Description
 
-_{This is a simple webpage built using HTML and CSS to talk about myself - not to brag, just to learn some code. Thanks for taking a peek!}_
+This is a simple webpage built using HTML and CSS to talk about myself - not to brag, just to learn some code. Thanks for taking a peek!
+
+## Setup
+View my HTML and CSS files by cloning this repository:
+```sh
+https://github.com/gingerlee/ggsfirst
+```
 
 ## Technologies Used
 
-_{Just HTML and CSS}_
+Just HTML and CSS.
 
 ### Legal
 
 
-Copyright (c) 2015 **_{Ginger Lee Kretschmer}_**
+Copyright (c) 2015 **_Ginger Lee Kretschmer_**
 
 This software is licensed under the MIT license.
 
